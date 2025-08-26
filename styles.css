@@ -18,3 +18,9 @@ body {
     flex-direction: column;
     min-height: 100vh;
 }
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+}
