@@ -12,3 +12,9 @@
     padding: 1rem 10%;
     background-color: #1f2937;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
