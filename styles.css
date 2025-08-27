@@ -109,3 +109,20 @@ body {
     margin-bottom: 0.5rem;
 }
 
+.quote {
+    background-color: #e5e7eb;
+    padding: 3rem 10%;
+    text-align: left;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1f2937;
+    margin-bottom: 1rem;
+}
+
+.author {
+    text-align: right;
+    font-weight: bold;
+    font-size: 18px;
+}
