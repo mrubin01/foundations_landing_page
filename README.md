@@ -1,1 +1,1 @@
-# foundations_landing_page
+# Foundations - Landing page project
