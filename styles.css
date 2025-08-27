@@ -159,3 +159,10 @@ body {
     font-size: 16px;
 }
 
+.footer {
+    text-align: center;
+    padding: 1.5rem 0;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    margin-top: auto;
+}
