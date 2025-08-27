@@ -126,3 +126,36 @@ body {
     font-weight: bold;
     font-size: 18px;
 }
+
+
+
+.call-to-action {
+    padding: 3rem 10%;
+}
+
+.call_content {
+    background-color: #3882f6;
+    padding: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    gap: 1rem;
+}
+
+.call_text h3 {
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+}
+
+.button2 {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 8px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
